@@ -8,8 +8,8 @@ body {
 }
 
 .logo {
-    width: 100px;
-    height: 300px;
+    width: 200px;
+    height: 400px;
     object-fit: contain;
     max-width: 100%;
 }
